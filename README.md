@@ -8,6 +8,7 @@
 
 ## Daftar Isi
 
-- [Lokasi File conf JTR](https://github.com/fixploit03/JTR-Rules/blob/main/lokasi%20file%20conf/README.md)
+- [Lokasi File john.conf](https://github.com/fixploit03/JTR-Rules/blob/main/lokasi%20file%20conf/README.md)
+- [File john.conf](https://github.com/fixploit03/JTR-Rules/blob/main/john.conf)
 - [Rules]()
   - [Simple Commands](https://github.com/fixploit03/JTR-Rules/blob/main/rules/simple%20commands/README.md)
