@@ -1,4 +1,4 @@
-# Lokasi File `conf` JTR
+# Lokasi File `john.conf`
 
 File konfigurasi utama John the Ripper biasanya bernama `john.conf`. Lokasinya tergantung versi JTR dan cara instalasi:
 
