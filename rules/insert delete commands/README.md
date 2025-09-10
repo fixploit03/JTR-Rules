@@ -161,3 +161,10 @@ adxin    (ganti posisi 2 dengan 'x')
 rox      (ganti posisi 2 dengan 'x')
 paxswrd  (ganti posisi 2 dengan 'x')
 ```
+
+> [!NOTE]
+> **Catatan penting**:
+>
+> - Tanda kurung siku `[` dan `]` adalah karakter khusus bagi preprocessor JTR.
+> - Jika ingin menggunakan perintah ini secara literal, harus di-escape dengan backslash `\[` atau `\]`.
+> - Beberapa perintah, seperti `xNM` untuk extract/insert substring, juga termasuk dalam kategori Memory Access Commands.
