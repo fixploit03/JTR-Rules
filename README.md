@@ -10,4 +10,4 @@
 
 - [Lokasi File conf JTR](https://github.com/fixploit03/JTR-Rules/blob/main/lokasi%20file%20conf/README.md)
 - [Rules]()
-  - [Simple Commands](https://github.com/fixploit03/JTR-Rules/blob/main/simple%20commands/README.md)
+  - [Simple Commands](https://github.com/fixploit03/JTR-Rules/blob/main/rules/simple%20commands/README.md)
