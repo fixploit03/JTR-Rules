@@ -3,7 +3,7 @@
 ![Dibuat oleh: Rofi (Fixploit03)](https://img.shields.io/badge/Dibuat%20oleh-Rofi%20(Fixploit03)-blue)  
 
 <div align="center">
-  <img src="https://github.com/fixploit03/JTR-Rules/blob/main/img/john-logo.png" width="50%"/>
+  <img src="https://github.com/fixploit03/JTR-Rules/blob/main/img/image.jpg" />
 </div>
 
 ## Daftar Isi
