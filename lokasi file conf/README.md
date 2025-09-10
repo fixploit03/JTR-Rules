@@ -2,7 +2,7 @@
 
 File konfigurasi utama John the Ripper biasanya bernama `john.conf`. Lokasinya tergantung versi JTR dan cara instalasi:
 
-## Versi Linux (apt / package manager)
+## Versi Linux (apt/package manager)
 
 Lokasi umum:
 
@@ -18,7 +18,7 @@ updatedb
 locate john.conf
 ```
 
-## Versi dari Source / GitHub
+## Versi dari Source/GitHub
 
 Jika kamu compile sendiri dari source, biasanya berada di folder `run/`:
 
