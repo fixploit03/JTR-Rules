@@ -1,7 +1,7 @@
 # JTR Rules
 
 <div align="center">
-  <img src="https://github.com/fixploit03/JTR-Rules/blob/main/img/john-logo.png" width="30%"/>
+  <img src="https://github.com/fixploit03/JTR-Rules/blob/main/img/john-logo.png" width="50%"/>
 </div>
 
 John the Ripper Rules adalah sebuah mekanisme khusus di dalam John the Ripper (JtR) yang memungkinkan pengguna untuk memodifikasi, memanipulasi, dan menghasilkan variasi kata sandi baru dari sebuah wordlist (atau input kata) secara otomatis.
