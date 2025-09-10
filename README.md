@@ -1,7 +1,6 @@
-![Dibuat oleh: Rofi (Fixploit03)](https://img.shields.io/badge/Dibuat%20oleh-Rofi%20(Fixploit03)-blue)  
-![OSI (Open Source Indonesia)](https://img.shields.io/badge/OSI-Open%20Source%20Indonesia-green)
-
 # JTR Rules
+
+![Dibuat oleh: Rofi (Fixploit03)](https://img.shields.io/badge/Dibuat%20oleh-Rofi%20(Fixploit03)-blue)  
 
 <div align="center">
   <img src="https://github.com/fixploit03/JTR-Rules/blob/main/img/john-logo.png" width="50%"/>
