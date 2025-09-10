@@ -163,7 +163,7 @@ paxswrd  (ganti posisi 2 dengan 'x')
 ```
 
 > [!NOTE]
-> **Catatan penting**:
+> **Catatan:**
 >
 > - Tanda kurung siku `[` dan `]` adalah karakter khusus bagi preprocessor JTR.
 > - Jika ingin menggunakan perintah ini secara literal, harus di-escape dengan backslash `\[` atau `\]`.
