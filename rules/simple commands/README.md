@@ -1,8 +1,10 @@
-## Simple Commands
+# Simple Commands
 
 Simple Commands adalah perintah dasar di John the Ripper Rules yang digunakan untuk memodifikasi kata sandi dengan cara sederhana, cepat, dan langsung.
 
 Mereka biasanya berupa satu karakter saja, dan masing-masing punya fungsi spesifik, misalnya mengubah huruf, menambah karakter, menghapus, atau membalik kata.
+
+## Jenis-Jenis Rules
 
 ### 1. `:`
 
