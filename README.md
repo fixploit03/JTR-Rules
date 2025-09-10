@@ -12,3 +12,4 @@
 - [File john.conf](https://github.com/fixploit03/JTR-Rules/blob/main/john.conf)
 - [Rules]()
   - [Simple Commands](https://github.com/fixploit03/JTR-Rules/blob/main/rules/simple%20commands/README.md)
+  - [Insert/Delete Commands](https://github.com/fixploit03/JTR-Rules/blob/main/rules/insert%20delete%20commands/README.md)
